@@ -9,7 +9,7 @@
 body {
     margin: 0;
     width: 100%;
-    background: url("img/1536х2160.jpg") no-repeat center center fixed;
+    background: url("img/1536х2160-min.jpg") no-repeat center center fixed;
     background-size: cover;
 }
 
@@ -195,7 +195,7 @@ input, input::placeholder {
         height: 100%;
     }
     body {
-        background: url("img/3840х2160.jpg") no-repeat center center fixed;
+        background: url("img/3840х2160-min.jpg") no-repeat center center fixed;
         background-size: cover;
         display: flex;
         align-items: center;
